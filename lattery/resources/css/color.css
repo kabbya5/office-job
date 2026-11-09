@@ -1,0 +1,27 @@
+:root {
+    /* 🎯 Main Brand Color (Gold) */
+    --primary: #f5c542;
+
+    /* 🖤 Dark Background */
+    --bg-dark: #0b0f1a;
+
+    /* 🎲 Secondary Dark */
+    --bg-card: #141b2d;
+
+    /* ❤️ Accent (Win / Alert) */
+    --danger: #ff3b3b;
+
+    /* 💚 Success (Win / Balance) */
+    --success: #00c853;
+
+    /* 🔵 Info / Glow */
+    --info: #00b0ff;
+
+    /* ✨ Text Colors */
+    --text: #e5e7eb;
+    --text-muted: #9ca3af;
+    --primary-border: rgba(234, 179, 8, 0.2);
+    --border: #1e293b;
+    --bg-light:#ffffff;
+    --text-dark:#333;
+}
